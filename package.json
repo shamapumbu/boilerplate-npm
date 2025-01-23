@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Shamapumbu Muzandu",
+	"description":"a project for the sake of learning",
+	"keywords": ["freecodecamp", "learning", "backend"],
+	"license":"MIT",
+	"version":"1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
